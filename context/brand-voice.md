@@ -156,6 +156,21 @@ This document defines the [YOUR COMPANY] brand voice, tone, and messaging framew
 - **[CHARACTERISTIC 3]**: [e.g., "Active verbs: 'Launch', 'Create', 'Grow', 'Build'"]
 - **[WHAT TO AVOID]**: [e.g., "Avoid fluff: Cut 'very', 'really', 'actually' unless needed"]
 
+### Banned Words
+
+NEVER use these words in any article or content. They are filler that weaken writing:
+
+| Banned Word | Why | Replace With |
+|---|---|---|
+| actually | Implies the reader was wrong; condescending | Remove it, or restate the fact directly |
+| usually | Vague hedge | Be specific: "in most cases," or state the actual frequency |
+| normally | Vague hedge | Be specific, or cut entirely |
+| generally | Vague hedge | Be specific, or cut entirely |
+| basically | Dumbs down the writing | Remove it; state the point plainly |
+| simply | Implies things are easy; can frustrate readers who find them hard | Remove it |
+| obviously | Condescending | Remove it; if it's obvious, don't say it |
+| clearly | Condescending | Remove it; if it's clear, don't say it |
+
 ### Terminology
 
 <!-- INSTRUCTIONS: Define industry-specific terminology preferences.

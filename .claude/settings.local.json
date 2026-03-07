@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(python:*)",
+      "Bash(WORDPRESS_URL=\"https://designifyng.com\" WORDPRESS_USERNAME=\"Designifyng\" WORDPRESS_APP_PASSWORD=\"cb5x am0S PhjB vSRZ N1kK 4k4u\" python:*)",
+      "Bash(set PYTHONIOENCODING=utf-8:*)"
+    ]
+  }
+}
